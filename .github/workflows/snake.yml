@@ -1,43 +1,33 @@
-# GitHub Action to generate the snake contribution graph SVG
-
-name: Generate Snake Contribution
+# GitHub Action for generating a contribution graph
+name: Generate Snake Animation
 
 on:
-  # Runs daily at a scheduled time (e.g., 2 AM UTC)
   schedule:
-    - cron: "0 2 * * *" 
-  # Allows manual running via the 'Actions' tab
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          # GitHub username to fetch the contribution data
-          github_user_name: ravindulakruwan
-          # Configuration for the animation
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          # Use a different output path to simplify the README inclusion
-          # We use a custom path: 'output/...'
-          output: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: actions/upload-artifact@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
         with:
-          name: github-snake-svg
-          path: output/
-      
-      # Commit the generated snake SVG to the 'output' branch
-      - name: Push new snake image to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+          github_user_name: ravindulakruwan
+          # list of paths to comma-separated svgs (or a single path)
+          svg_out_path: github-contribution-grid-snake.svg
+
+      - name: Push new animation
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          target_branch: output # The branch where the image will be stored
-          build_dir: output
+          target_branch: main
+          build_dir: .
+          commit_message: "Update snake animation"
+          keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Automatically provided secret
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

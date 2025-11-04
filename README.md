@@ -1,220 +1,134 @@
-# Hi 👋, I'm Ravindu Lakruwan Sahabandu
+<!-- Header Section -->
+<div align="center">
+
+![GitHub Header](https://github.com/ravindulakruwan/ravindulakruwan/blob/main/assets/github-header-image.png?raw=true)
+
+# 👋 Hello, I'm Ravindu Lakruwan Sahabandu
+
+### 🤖 AI/ML Engineer | Computer Vision Specialist | Full-Stack Developer
+
+[![Website](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakruwansahabandu/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+
+![AI Enthusiast](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning+Engineer;Computer+Vision+Specialist;YOLO+Expert;Full-Stack+Developer;Problem+Solver;Continuous+Learner)
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;I+build+prototypes+fast+with+Python+%26+YOLOv8;Always+learning+and+teaching" alt="typing"/>
+I'm a passionate AI/ML engineer with expertise in Computer Vision and deep learning. I specialize in building intelligent systems using Python, YOLOv8, and modern web technologies. I love transforming complex problems into elegant solutions and staying at the forefront of technological innovation.
 </p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-00BFFF.svg" alt="status"/>
-  <img src="https://img.shields.io/badge/Top%20Stack-Python%20%7C%20YOLOv8%20%7C%20OpenCV-222.svg" alt="stack"/>
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-%23F7DF1E.svg" alt="location"/>
-  <img src="https://img.shields.io/badge/Contact-LinkedIn-blue.svg" alt="linkedin"/>
-</p>
+- 🔭 **Currently Working On:** Advanced object detection systems with YOLOv8 and real-time analytics
+- 🌱 **Currently Learning:** MLOps, TensorFlow Extended (TFX), and cloud AI services
+- 👯 **Looking to Collaborate On:** Open-source AI projects and computer vision applications
+- 💬 **Ask me about:** Computer Vision, YOLO, Python, OpenCV, and ML deployment
+- ⚡ **Fun fact:** I can prototype AI solutions faster than most people can write the requirements document!
 
 ---
 
-## 🔥 About Me
+## 🛠️ Tech Stack & Tools
 
-* 🌱 I’m currently learning & building in **AI / Machine Learning**.
-* 🔭 Working on **Computer Vision** projects (YOLOv8, OpenCV, TensorFlow).
-* 👯 Looking to collaborate on **Open Source ML** and practical CV projects.
-* ⚡ Fun fact: I turn ideas into working prototypes fast — from concept to demo.
+### 🤖 AI/ML & Computer Vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
----
+### 💻 Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
-## 🛠️ Tech & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,yolov8,opencv,git,github,vscode,electron,js,html,css" alt="skills"/>
-</p>
-
-**Core skills:** Python, YOLOv8, OpenCV, TensorFlow, Git, VS Code, Electron, JavaScript, HTML/CSS.
-
----
-
-## 📈 GitHub Highlights
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ravindulakruwan&show_icons=true&hide_border=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakruwan&layout=compact&hide_border=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravindulakruwan&margin-w=10&column=6" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindulakruwan&theme=react-dark" alt="contrib-graph"/>
-</p>
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📂 Selected Projects
+## 📊 GitHub Analytics
 
-> Short, focused project cards (link to repo in your profile):
+<div align="center">
 
-* **Banana Ripeness Detector** — Real-time object detection using YOLOv8; includes training scripts, dataset pipeline, and a web demo.
-* **FreshCheck Web App** — Camera upload + Roboflow inference, PWA-ready, mobile camera controls and download/reporting feature.
-* **Whiteboard Gesture Tool** — Virtual whiteboard using hand landmarks; includes OCR handwriting-to-text (Google Vision API) and save/export.
+<!-- GitHub Stats -->
+<a href="https://github.com/ravindulakruwan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravindulakruwan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakruwan&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
 
----
+<!-- GitHub Streak -->
+<a href="https://github.com/ravindulakruwan">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulakruwan&theme=radical&hide_border=true" />
+</a>
 
-## 🎯 Focus Areas / Research
-
-* Real-time object detection and model optimization (YOLOv8, ONNX export).
-* Edge & desktop deployment (Electron apps, Windows .exe with custom icon).
-* Roboflow & dataset management for robust model training.
-
----
-
-## 📣 How You Can Collaborate
-
-* ⭐ Star any projects you find useful.
-* 🐛 Report issues or open PRs on GitHub.
-* 🤝 DM on LinkedIn to discuss collaboration, freelancing, or mentorship.
+</div>
 
 ---
 
-## 📫 Connect with Me
+## 🏆 GitHub Trophies
 
-* LinkedIn: [https://www.linkedin.com/in/lakruwansahabandu/](https://www.linkedin.com/in/lakruwansahabandu/)
-* GitHub: [https://github.com/ravindulakruwan](https://github.com/ravindulakruwan)
+<div align="center">
 
----
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ravindulakruwan&theme=radical&no-frame=true&row=2&column=4)
 
-## ✨ README Customization & Animations (Single-file guide)
-
-Below is a step-by-step guide included **inside this same README** so you can: 1) install/update, 2) make it look more animated, 3) use it as your repository `README.md`.
-
-### 1) Quick setup — Replace the placeholders
-
-1. Fork or clone your GitHub profile repo (or create a new repository named `ravindulakruwan`).
-2. Replace the username in the stat images and in any links: `ravindulakruwan` → your GitHub username (if different).
-3. Replace LinkedIn URL if needed.
-4. Commit & push `README.md` to the repository's root (branch `main`). GitHub will render it on your profile or repo page.
-
-**Commands:**
-
-```bash
-# clone your repo
-git clone https://github.com/ravindulakruwan/your-repo.git
-cd your-repo
-# edit README.md (paste this file)
-git add README.md
-git commit -m "chore: update README"
-git push origin main
-```
+</div>
 
 ---
 
-### 2) Add animated typing headline
+## 📈 Contribution Graph
 
-We use `readme-typing-svg` for a live typing effect — you already use it. Customize the `lines=` parameter to change lines. Example:
+<div align="center">
 
-```md
-<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Line+1;Line+2;Line+3" />
-```
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravindulakruwan&theme=react-dark&hide_border=true&area=true)
 
-**Tip:** Keep `duration` between 3000–7000 for best effect.
+</div>
 
 ---
 
-### 3) Add shields and badges
+## 🎯 Featured Projects
 
-Badges from `shields.io` are a simple way to show status:
+### 🤖 Computer Vision Projects
+- **[YOLOv8 Object Detection](https://github.com/ravindulakruwan/yolov8-object-detection)** - Advanced object detection system
+- **[Real-time Face Recognition](https://github.com/ravindulakruwan/face-recognition)** - Real-time facial recognition system
+- **[Image Segmentation](https://github.com/ravindulakruwan/image-segmentation)** - Semantic segmentation implementation
 
-```md
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-00BFFF.svg" />
-```
-
-Useful badge ideas: build status, license, languages, followers, donations, last commit.
-
----
-
-### 4) Animated GIF or demo screencast
-
-Add a short GIF or Loom video to show your app in action. Export a 6–12 second GIF, host it in the repo (`/assets/demo.gif`) and reference it:
-
-```md
-![Demo](/assets/demo.gif "Quick demo of the app")
-```
-
-**Best practices:** keep GIF width ~600px and under 3–4MB.
+### 🌐 Web Applications
+- **[AI Dashboard](https://github.com/ravindulakruwan/ai-dashboard)** - Dashboard for AI model monitoring
+- **[Computer Vision API](https://github.com/ravindulakruwan/cv-api)** - REST API for computer vision tasks
 
 ---
 
-### 5) Show project cards with quick links
+## 📫 Let's Connect
 
-Keep each project 1–2 lines with a direct link. Example:
+<div align="center">
 
-```md
-- **Project Name** — One-liner. [Repo](https://github.com/your/repo) • [Demo](https://your-demo)
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravindulakruwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakruwansahabandu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
----
-
-### 6) Optional: Add a GitHub Workflow to auto-update stats or badges
-
-Create `.github/workflows/README-update.yml` that runs a script to regenerate dynamic images or badges.
-
-Example minimal workflow that runs on push:
-
-```yaml
-name: README Update
-on: [push]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Commit README (no-op)
-        run: echo "README updated"
-```
+</div>
 
 ---
 
-### 7) Make your README responsive and mobile-friendly
+<div align="center">
 
-* Use concise lines and avoid very wide tables.
-* Keep badges and images centered using HTML `<p align="center">`.
-* Prefer embedded GIFs & small SVGs rather than large PNGs.
+### ⭐️ Star my repositories if you find them interesting!
 
----
+![Visitor Count](https://komarev.com/ghpvc/?username=ravindulakruwan&color=blueviolet&style=flat-square)
 
-### 8) Final polish: SEO & copywriting
-
-* Use keywords in the first 160 characters: `AI, Machine Learning, Computer Vision, YOLOv8, Python`.
-* Add a short "elevator pitch" in the first paragraph (what you do, who you help, and why it matters).
-
----
-
-## 🔧 Example: Quick-tune checklist (copy into your repo)
-
-```md
-- [ ] Replace username in stats URLs
-- [ ] Replace LinkedIn/GitHub links
-- [ ] Add 1 demo GIF under /assets
-- [ ] Add 3-5 project links with short descriptions
-- [ ] Commit and push
-```
-
----
-
-## 📝 License
-
-Feel free to reuse this README and adapt it. I recommend adding a short `LICENSE` if you want to open-source the repo (MIT is common for code projects).
-
----
-
-## 🙋 Need help?
-
-If you want, I can:
-
-* Tailor this README to a specific project (e.g., FreshCheck or Banana Ripeness Detector).
-* Generate a lightweight demo GIF or a sample workflow file.
-
----
-
-> *Made with ❤️ by Ravindu — keep building awesome things!*
+</div>

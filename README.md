@@ -32,7 +32,7 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,yolov8,opencv,numpy,pandas,git,github,vscode,docker,electron,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,yolov8,opencv,numpy,pandas,git,github,vscode,electron,js,html,css" />
 </p>
 
 ---

@@ -1,76 +1,69 @@
-<h1 align="center">Hey there! I'm Ravindu Lakruwan Sahabandu 👋</h1>
-<h3 align="center">A passionate AI/ML Engineer and Computer Vision Specialist</h3>
+<h1 align="center">Hi 👋, I'm Ravindu Lakruwan Sahabandu</h1>
+<h3 align="center">AI/ML Enthusiast | Computer Vision | Technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00BFFF&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%26+YOLO+Enthusiast;Building+Scalable+AI+Prototypes;Always+Exploring+the+Next+Tech+Frontier" />
+  <img src="https://komarev.com/ghpvc/?username=ravindulakruwan&color=00F7FF&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;I+build+cool+projects+with+Python+%26+Yolov8;Always+learning+new+things" /> 
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakruwansahabandu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 🔥 About Me & My Focus
+### 🚀 About Me
 
-- 🧠 **AI/ML:** Currently diving deep into advanced **AI/Machine Learning** paradigms.
-- 🔭 **Computer Vision:** Specialized in **Computer Vision** and leveraging cutting-edge models like **YOLOv8**.
-- 🤝 **Collaboration:** Actively seeking collaboration on **Open Source ML projects** and innovative tech solutions.
-- ⚡ **Fun Fact:** I excel at rapid **prototyping**, turning abstract concepts into functional applications quickly! 🚀
+* 🌱 I’m currently learning **AI / Machine Learning** & exploring new model architectures.
+* 🔭 I'm working on exciting **Computer Vision & YOLO** projects.
+* 👯 I’m looking to collaborate on **Open Source ML projects** (feel free to reach out!).
+* ⚡ Fun fact: I can turn ideas into working prototypes fast 🚀
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ My Tech Stack
 
-A snapshot of the languages and tools I use to bring ideas to life:
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,yolov8,opencv,js,html,css,electron" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,yolov8,opencv,numpy,pandas,git,github,vscode,docker,electron,js,html,css" />
 </p>
 
 ---
 
-## 📈 GitHub Activity & Stats
-
-I believe in continuous learning and contribution. Here are some insights into my recent activity:
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravindulakruwan&show_icons=true&hide_border=true&theme=vue&rank_icon=github" alt="Ravindu Lakruwan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakruwan&layout=compact&hide_border=true&theme=vue&langs_count=6" alt="Ravindu Lakruwan's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravindulakruwan&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakruwan&layout=compact&hide_border=true&theme=radical" />
 </div>
 
-<br>
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravindulakruwan&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravindulakruwan&margin-w=10&theme=radical" />
 </p>
 
 ---
 
-## ✨ My Latest Contributions
+### ✨ My Contribution Graphs
 
-### 📜 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindulakruwan&theme=react-dark&hide_border=true&height=300" alt="Ravindu Lakruwan's Activity Graph" />
-</p>
-
-### 🐍 Snake Animation
-
-This is where the contribution snake animation will appear. It updates daily via a GitHub Action.
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/ravindulakruwan/ravindulakruwan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindulakruwan&theme=react-dark" alt="Activity Graph" />
+  
+  <img src="https://raw.githubusercontent.com/ravindulakruwan/ravindulakruwan/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 ---
 
-## 🔗 Connect With Me
-
-Let's connect and discuss technology, collaboration, or anything AI!
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/lakruwansahabandu/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a>
+<p align="center">
+  ⭐ Star my projects if you like them! 😄
 </p>
-
----
-
-⭐ **Like my work?** Don't forget to star my repositories! Your support is greatly appreciated. 😄

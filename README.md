@@ -1,247 +1,220 @@
-<!-- Animated Header Section -->
-<div align="center">
-  
-  ![GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ravindu%20👋&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Enthusiast%20|%20Computer%20Vision%20|%20Full%20Stack%20Learner&descSize=20&descAlign=50&descAlignY=55)
-
-</div>
-
-<!-- Animated Typing -->
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;I+build+cool+projects+with+Python+%26+TensorFlow;Always+learning+new+things;Full+Stack+Developer+in+Training&font=Fira%20Code)
-
-</div>
-
-<br/>
-
-<!-- Animated Grid Layout -->
-<div align="center">
-
-<!-- 🔥 About Me Card -->
-<details>
-<summary><b>🔥 About Me</b></summary>
-<br/>
-
-🎯 **Focus Areas**: AI/ML · Computer Vision · Full Stack Development  
-🌱 **Currently Learning**: Advanced TensorFlow & React.js  
-💡 **Interests**: Building intelligent systems that solve real-world problems  
-⚡ **Fun Fact**: I can turn coffee into code and ideas into prototypes overnight!  
-🚀 **Goal**: Contribute to impactful open-source AI projects  
-
-</details>
-
-</div>
-
-<br/>
-
-<!-- 🛠️ Tech Stack with Animated Icons -->
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-<!-- Programming Languages -->
-<h3>💻 Programming Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<!-- AI/ML Frameworks -->
-<h3>🤖 AI/ML Frameworks</h3>
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-<!-- Frontend & Backend -->
-<h3>🌐 Frontend & Backend</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<!-- Tools & Platforms -->
-<h3>🛠️ Tools & Platforms</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- 📊 GitHub Stats with Animated Cards -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<!-- Dynamic GitHub Stats -->
-<div align="center">
-  <a href="https://github.com/RavinduLiyanage">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavinduLiyanage&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduLiyanage&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RavinduLiyanage&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-[![Ravindu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RavinduLiyanage&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph%20📊)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- 🏆 GitHub Trophies -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RavinduLiyanage&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- 🐍 Snake Animation -->
-<div align="center">
-
-## 🐍 Watch my contributions get eaten by the snake!
-
-![Snake animation](https://github.com/RavinduLiyanage/RavinduLiyanage/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br/>
-
-<!-- 🔗 Connect with Me -->
-<div align="center">
-
-## 🤝 Connect with Me
+# Hi 👋, I'm Ravindu Lakruwan Sahabandu
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@your-medium" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/your-kaggle" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;I+build+prototypes+fast+with+Python+%26+YOLOv8;Always+learning+and+teaching" alt="typing"/>
 </p>
-
-</div>
-
-<br/>
-
-<!-- 📌 Pinned Repositories -->
-<div align="center">
-
-## 📌 Featured Projects
-
-<!-- Replace with your actual repository names -->
-<a href="https://github.com/RavinduLiyanage/your-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduLiyanage&repo=your-project-1&theme=radical" />
-</a>
-<a href="https://github.com/RavinduLiyanage/your-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RavinduLiyanage&repo=your-project-2&theme=radical" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- 🎵 Spotify Playing -->
-<div align="center">
-
-## 🎵 Currently Coding To
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00f7ff)](https://open.spotify.com/user/your-spotify)
-
-</div>
-
-<br/>
-
-<!-- 📊 Weekly Development Breakdown -->
-<div align="center">
-
-## 📊 Weekly Development Breakdown
-
-<!-- Replace with your WakaTime stats -->
-<!-- [![Ravindu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://wakatime.com/@your_wakatime_username) -->
-
-*WakaTime stats coming soon...*
-
-</div>
-
-<br/>
-
-<!-- 🌟 Support -->
-<div align="center">
-
-## 🌟 Support My Work
-
-<p align="center">
-  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-  
-  <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
-  </a>
-</p>
-
-</div>
-
-<br/>
-
-<!-- 🎯 Visitor Counter -->
-<div align="center">
-
-## 👀 Visitors Count
-
-![Visitor Count](https://profile-counter.glitch.me/RavinduLiyanage/count.svg)
-
-</div>
-
-<br/>
-
-<!-- 🎉 Footer -->
-<div align="center">
 
 ---
 
-### ⚡ **"Code is like humor. When you have to explain it, it's bad."** ⚡
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-00BFFF.svg" alt="status"/>
+  <img src="https://img.shields.io/badge/Top%20Stack-Python%20%7C%20YOLOv8%20%7C%20OpenCV-222.svg" alt="stack"/>
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-%23F7DF1E.svg" alt="location"/>
+  <img src="https://img.shields.io/badge/Contact-LinkedIn-blue.svg" alt="linkedin"/>
+</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true)
+---
 
-⭐ **Star my projects if you find them interesting!** 😄
+## 🔥 About Me
 
-</div>
+* 🌱 I’m currently learning & building in **AI / Machine Learning**.
+* 🔭 Working on **Computer Vision** projects (YOLOv8, OpenCV, TensorFlow).
+* 👯 Looking to collaborate on **Open Source ML** and practical CV projects.
+* ⚡ Fun fact: I turn ideas into working prototypes fast — from concept to demo.
+
+---
+
+## 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,yolov8,opencv,git,github,vscode,electron,js,html,css" alt="skills"/>
+</p>
+
+**Core skills:** Python, YOLOv8, OpenCV, TensorFlow, Git, VS Code, Electron, JavaScript, HTML/CSS.
+
+---
+
+## 📈 GitHub Highlights
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ravindulakruwan&show_icons=true&hide_border=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindulakruwan&layout=compact&hide_border=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravindulakruwan&margin-w=10&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindulakruwan&theme=react-dark" alt="contrib-graph"/>
+</p>
+
+---
+
+## 📂 Selected Projects
+
+> Short, focused project cards (link to repo in your profile):
+
+* **Banana Ripeness Detector** — Real-time object detection using YOLOv8; includes training scripts, dataset pipeline, and a web demo.
+* **FreshCheck Web App** — Camera upload + Roboflow inference, PWA-ready, mobile camera controls and download/reporting feature.
+* **Whiteboard Gesture Tool** — Virtual whiteboard using hand landmarks; includes OCR handwriting-to-text (Google Vision API) and save/export.
+
+---
+
+## 🎯 Focus Areas / Research
+
+* Real-time object detection and model optimization (YOLOv8, ONNX export).
+* Edge & desktop deployment (Electron apps, Windows .exe with custom icon).
+* Roboflow & dataset management for robust model training.
+
+---
+
+## 📣 How You Can Collaborate
+
+* ⭐ Star any projects you find useful.
+* 🐛 Report issues or open PRs on GitHub.
+* 🤝 DM on LinkedIn to discuss collaboration, freelancing, or mentorship.
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: [https://www.linkedin.com/in/lakruwansahabandu/](https://www.linkedin.com/in/lakruwansahabandu/)
+* GitHub: [https://github.com/ravindulakruwan](https://github.com/ravindulakruwan)
+
+---
+
+## ✨ README Customization & Animations (Single-file guide)
+
+Below is a step-by-step guide included **inside this same README** so you can: 1) install/update, 2) make it look more animated, 3) use it as your repository `README.md`.
+
+### 1) Quick setup — Replace the placeholders
+
+1. Fork or clone your GitHub profile repo (or create a new repository named `ravindulakruwan`).
+2. Replace the username in the stat images and in any links: `ravindulakruwan` → your GitHub username (if different).
+3. Replace LinkedIn URL if needed.
+4. Commit & push `README.md` to the repository's root (branch `main`). GitHub will render it on your profile or repo page.
+
+**Commands:**
+
+```bash
+# clone your repo
+git clone https://github.com/ravindulakruwan/your-repo.git
+cd your-repo
+# edit README.md (paste this file)
+git add README.md
+git commit -m "chore: update README"
+git push origin main
+```
+
+---
+
+### 2) Add animated typing headline
+
+We use `readme-typing-svg` for a live typing effect — you already use it. Customize the `lines=` parameter to change lines. Example:
+
+```md
+<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Line+1;Line+2;Line+3" />
+```
+
+**Tip:** Keep `duration` between 3000–7000 for best effect.
+
+---
+
+### 3) Add shields and badges
+
+Badges from `shields.io` are a simple way to show status:
+
+```md
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-00BFFF.svg" />
+```
+
+Useful badge ideas: build status, license, languages, followers, donations, last commit.
+
+---
+
+### 4) Animated GIF or demo screencast
+
+Add a short GIF or Loom video to show your app in action. Export a 6–12 second GIF, host it in the repo (`/assets/demo.gif`) and reference it:
+
+```md
+![Demo](/assets/demo.gif "Quick demo of the app")
+```
+
+**Best practices:** keep GIF width ~600px and under 3–4MB.
+
+---
+
+### 5) Show project cards with quick links
+
+Keep each project 1–2 lines with a direct link. Example:
+
+```md
+- **Project Name** — One-liner. [Repo](https://github.com/your/repo) • [Demo](https://your-demo)
+```
+
+---
+
+### 6) Optional: Add a GitHub Workflow to auto-update stats or badges
+
+Create `.github/workflows/README-update.yml` that runs a script to regenerate dynamic images or badges.
+
+Example minimal workflow that runs on push:
+
+```yaml
+name: README Update
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Commit README (no-op)
+        run: echo "README updated"
+```
+
+---
+
+### 7) Make your README responsive and mobile-friendly
+
+* Use concise lines and avoid very wide tables.
+* Keep badges and images centered using HTML `<p align="center">`.
+* Prefer embedded GIFs & small SVGs rather than large PNGs.
+
+---
+
+### 8) Final polish: SEO & copywriting
+
+* Use keywords in the first 160 characters: `AI, Machine Learning, Computer Vision, YOLOv8, Python`.
+* Add a short "elevator pitch" in the first paragraph (what you do, who you help, and why it matters).
+
+---
+
+## 🔧 Example: Quick-tune checklist (copy into your repo)
+
+```md
+- [ ] Replace username in stats URLs
+- [ ] Replace LinkedIn/GitHub links
+- [ ] Add 1 demo GIF under /assets
+- [ ] Add 3-5 project links with short descriptions
+- [ ] Commit and push
+```
+
+---
+
+## 📝 License
+
+Feel free to reuse this README and adapt it. I recommend adding a short `LICENSE` if you want to open-source the repo (MIT is common for code projects).
+
+---
+
+## 🙋 Need help?
+
+If you want, I can:
+
+* Tailor this README to a specific project (e.g., FreshCheck or Banana Ripeness Detector).
+* Generate a lightweight demo GIF or a sample workflow file.
+
+---
+
+> *Made with ❤️ by Ravindu — keep building awesome things!*

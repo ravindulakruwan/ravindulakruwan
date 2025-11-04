@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;I+build+cool+projects+with+Python+%26+Yolov8;Always+learning+new+things" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;Computer+Vision+Enthusiast;I+build+cool+projects+with+Python+%26+Yolov8;Always+learning+new+things" /> 
 </p>
 
 <p align="center">

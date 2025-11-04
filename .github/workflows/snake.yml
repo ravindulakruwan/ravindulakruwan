@@ -1,21 +1,43 @@
-name: Generate Snake Animation
+# GitHub Action to generate the snake contribution graph SVG
+
+name: Generate Snake Contribution
 
 on:
+  # Runs daily at a scheduled time (e.g., 2 AM UTC)
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 2 * * *" 
+  # Allows manual running via the 'Actions' tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
         with:
-          github_user_name: RavinduLiyanage
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          # GitHub username to fetch the contribution data
+          github_user_name: ravindulakruwan
+          # Configuration for the animation
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # Use a different output path to simplify the README inclusion
+          # We use a custom path: 'output/...'
+          output: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: actions/upload-artifact@v4
         with:
-          target_branch: output
-          build_dir: dist
+          name: github-snake-svg
+          path: output/
+      
+      # Commit the generated snake SVG to the 'output' branch
+      - name: Push new snake image to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output # The branch where the image will be stored
+          build_dir: output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Automatically provided secret

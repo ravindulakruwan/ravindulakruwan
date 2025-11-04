@@ -5,7 +5,7 @@
   <h1>Hi 👋, I'm Ravindu Lakruwan Sahabandu</h1>
   <h3>AI/ML Enthusiast | Computer Vision | Technology</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;I+build+cool+projects+with+Python+%26+Yolov8;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+Machine+Learning+%7C+Gen+AI;Computer+Vision+Enthusiast;I+build+cool+projects+with+Python+%26+Yolov8;Always+learning+new+things" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ravindulakruwan&color=00F7FF&style=flat-square" alt="profile views" />

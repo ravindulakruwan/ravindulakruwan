@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F7FF,0077B5,5C2D91&height=220&section=header&text=Ravindu%20Lakruwan%20Sahabandu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Enthusiast%20%7C%20Computer%20Vision%20Specialist&descSize=20&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F7FF,0077B5,5C2D91&height=220&section=header&text=Ravindu%20Lakruwan%20Sahabandu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Enthusiast%20%7C%20Computer%20Vision%20Enthusiast&descSize=20&descAlignY=60&descAlign=50" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Next-Gen+AI+Solutions;Computer+Vision+%26+YOLO+Expert;Python+Developer+%7C+Open+Source;Turning+Data+Into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Next-Gen+AI+Solutions;Computer+Vision+%26+YOLO+Enthusiast;Python+Developer+%7C+Open+Source;Turning+Data+Into+Intelligence" />
 
   <p>
     <a href="https://www.linkedin.com/in/lakruwansahabandu/" target="_blank">

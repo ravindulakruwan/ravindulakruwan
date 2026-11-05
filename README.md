@@ -28,7 +28,7 @@
 
 * 🌱 I’m currently learning **AI / Machine Learning** and **Deep Learning** concepts.
 * 🔭 I'm actively working on projects involving **Computer Vision** & **YOLO** models.
-* 👯 I’m looking to collaborate on **Open Source ML/AI projects** that make a difference.
+* 👯 I’m looking to collaborate on **ML/AI projects** that make a difference.
 * ⚡ Fun fact: I can turn ideas into working prototypes fast 🚀
 
 ---
